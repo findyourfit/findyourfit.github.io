@@ -74,7 +74,7 @@ header-secondary-button:
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
-email: your_email@example.com
+email: admin@findyourfitwithmissbee.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
@@ -112,10 +112,10 @@ about-widget:
 # Google Map JS api
 # This is my api for this template
 key-api: AIzaSyDbnxVZQannH0GF4gtnnBFPiP9ofm2WqGs
-map-text: Sera Google Map
-map-text-location: Bucharest, Romania
-map-lat: 44.4267674
-map-lng: 26.102538399999958
+map-text: Miss Bee
+map-text-location: Vancouver, Canada
+map-lat: 49.272155
+map-lng: -123.104399
 
 # Enter your Mailchimp User ID and Campaign ID
 # @TODO: Add in a link for where to find these
