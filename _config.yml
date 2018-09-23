@@ -187,49 +187,37 @@ portfolio:
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
   categories: [Graphic Design, Logo, Websites]
-  image: img-02.jpg
+  image: FB1.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
   categories: [Graphic Design, Logo, Photography]
-  image: img-03.jpg
+  image: FB2.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
   categories: [Websites, Video, Photography]
-  image: img-04.jpg
+  image: FB3.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
   categories: [Development, Logo]
-  image: img-05.jpg
+  image: FB4.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
   categories: [Development, Video]
-  image: img-06.jpg
+  image: FB5.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
   categories: [Websites, Graphic Design]
-  image: img-07.jpg
-  url: '#'
-
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites , Video]
-  image: img-08.jpg
-  url: '#'
-
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Photography, Logo]
-  image: img-09.jpg
+  image: head shot Nickie.jpg
   url: '#'
 
 
