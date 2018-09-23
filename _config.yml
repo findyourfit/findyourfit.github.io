@@ -136,14 +136,14 @@ mailchimp:
 #############   About   #############
 #####################################
 about-title: Welcome to Miss Bee's Site
-about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+about-description: I am professional personal training working in the Greater Vancouver Region. I offer an array of services geared towards building a highly custom plan for each individuals needs. I am currently accepting new clients so if you are interested in <em> finding you fit </em> contact me for a consultation.
 
 
 #####################################
 #############  Features  ############
 #####################################
-features-title: Features
-features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante.
+features-title: Services
+features-description: I currently offer...
 
 #
 # Features
@@ -151,18 +151,18 @@ features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
 features:
 
 # Feature
-- title: Clean & Unique Design
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+- title: Personal Training
+  description: Find your fit with Miss Bee. I offer highly customizeable programs tailored specifically for you.
   icon: pe-7s-vector
 
 # Feature
-- title: Professional Support
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+- title: Body Building
+  description: Whatever your goals there's a plan to get you there.
   icon: pe-7s-help2
 
 # Feature
-- title: Pixel Perfect
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+- title: Injury Prevention
+  description: Don't let persistent injuries keep you on the sidelines! Build a plan to get you back in play and stay off the sidelines.
   icon: pe-7s-airplay
 
 
@@ -170,53 +170,53 @@ features:
 ############  Portfolio  ############
 #####################################
 portfolio-title: Portfolio
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+portfolio-description: Miss Bee's Portfolio
 
 #
 # Portfolio Grid
 #
-portfolio-categories: [Websites, Logo, Graphic Design, Development, Video, Photography]
+portfolio-categories: [Personal Training, Body Building, Sport Training, Injury Prevention]
 portfolio:
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites, Graphic Design]
+- title: M<span class="thin">iss</span> Bee
+  categories: [Body Building, Personal Training]
   image: head-shot.jpg
   url: '#'
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Graphic Design, Logo, Websites]
+- title: M<span class="thin">iss</span> Bee
+  categories: [Body Building, Sport Training, Injury Prevention]
   image: FB1.jpg
   url: '#'
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Graphic Design, Logo, Photography]
+- title: M<span class="thin">iss</span> Bee
+  categories: [Personal Training, Sport Training, Injury Prevention]
   image: FB2.jpg
   url: '#'
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites, Video, Photography]
+- title: M<span class="thin">iss</span> Bee
+  categories: [Body Building]
   image: FB3.jpg
   url: '#'
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Development, Logo]
+- title: M<span class="thin">iss</span> Bee
+  categories: [Sport Training]
   image: FB4.jpg
   url: '#'
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Development, Video]
+- title: M<span class="thin">iss</span> Bee
+  categories: [Injury Prevention]
   image: FB5.jpg
   url: '#'
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites, Graphic Design]
+- title: M<span class="thin">iss</span> Bee
+  categories: [Personal Training]
   image: head shot Nickie.jpg
   url: '#'
 
