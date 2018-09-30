@@ -98,9 +98,9 @@ vimeo: '#'
 # About Blog Author Widget
 #
 about-widget:
-  author-avatar: avatar-02.jpg
-  author-name: John Doe
-  author-tagline: Blog Author
+  author-avatar: head-shot.jpg
+  author-name: Miss Bee
+  author-tagline: Personal Trainer
   author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
   author-social-links:
     youtube: '#'
@@ -325,7 +325,7 @@ testimonials:
 #####################################
 ############# Our Blog ##############
 #####################################
-blog-title: Our Blog
+blog-title: Miss Bee's Blog
 blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 
@@ -441,6 +441,6 @@ contact-description: Nulla a tellus at turpis gravida congue non interdum et mal
 #############   Footer   ############
 #####################################
 footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Gleesik&trade;
-footer-copyright-url: http://gleesik.ro/
-footer-copyright-year: 2016
+footer-copyright-text: MissBee&trade;
+footer-copyright-url: http://findyourfitwithmissbee.com
+footer-copyright-year: 2018
