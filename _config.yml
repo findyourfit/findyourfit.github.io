@@ -4,7 +4,6 @@
 #
 # Information for compile
 exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md"]
-
 #
 # If your website is placed in a separate folder on your server please modify
 # this with your folder name, by default is empty.
