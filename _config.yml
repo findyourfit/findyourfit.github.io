@@ -2,7 +2,6 @@
 # Sera - OnePage Jekyll Template
 # Configuration File
 #
-
 # Information for compile
 exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md"]
 
