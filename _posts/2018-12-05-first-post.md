@@ -3,14 +3,9 @@ title: First Post
 layout: Layout
 tagline: Website Test
 date: 2018-12-05 04:25:47 +0000
-categories:
-- web dev
-- admin
-tags:
-- hold
-- your
-- breath
-image: "/uploads/head shot Nickie .jpg"
+categories: [Storyline]
+tags: [Storyline, How To, Tips]
+image: img-03.jpg
 
 ---
 Lorem ipsum dolor amet waistcoat organic etsy taiyaki XOXO direct trade typewriter hella copper mug man bun. Schlitz edison bulb VHS, four loko coloring book williamsburg tote bag tilde. Drinking vinegar wolf echo park taxidermy everyday carry occupy banh mi adaptogen. Food truck next level mlkshk, pitchfork butcher swag lyft whatever brunch plaid. Chambray direct trade stumptown, twee single-origin coffee fam quinoa organic shaman farm-to-table kitsch four dollar toast authentic poutine chartreuse.
