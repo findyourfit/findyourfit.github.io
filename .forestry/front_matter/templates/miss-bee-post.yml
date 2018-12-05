@@ -24,3 +24,6 @@ fields:
 - type: tag_list
   name: tags
   label: TAGS
+- type: file
+  label: IMAGE
+  name: image
