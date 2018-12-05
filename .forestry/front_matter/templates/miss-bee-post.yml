@@ -27,3 +27,5 @@ fields:
 - type: file
   label: IMAGE
   name: image
+pages:
+- _posts/first-post.md
