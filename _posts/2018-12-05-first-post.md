@@ -1,6 +1,6 @@
 ---
-title: First Post
-layout: Layout
+layout: post
+title: "First Post"
 tagline: Website Test
 date: 2018-12-05 04:25:47 +0000
 categories: [Storyline]
