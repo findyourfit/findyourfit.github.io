@@ -151,17 +151,17 @@ features:
 # Feature
 - title: Personal Training
   description: Find your fit with Miss Bee. I offer highly customizeable programs tailored specifically for you.
-  icon: pe-7s-vector
+  icon: pe-7s-user
 
 # Feature
 - title: Body Building
   description: Whatever your goals there's a plan to get you there.
-  icon: pe-7s-help2
+  icon: pe-7s-gym
 
 # Feature
 - title: Injury Prevention
   description: Don't let persistent injuries keep you on the sidelines! Build a plan to get you back in play and stay off the sidelines.
-  icon: pe-7s-airplay
+  icon: pe-7s-bandaid
 
 
 #####################################
