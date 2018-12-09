@@ -9,7 +9,7 @@ tags:
 - Storyline
 - How To
 - Tips
-image: img-03.jpg
+image: "/uploads/bike.jpg"
 
 ---
 Lorem morem ipsum dolor amet waistcoat organic etsy taiyaki XOXO direct trade typewriter hella copper mug man bun. Schlitz edison bulb VHS, four loko coloring book williamsburg tote bag tilde. Drinking vinegar wolf echo park taxidermy everyday carry occupy banh mi adaptogen. Food truck next level mlkshk, pitchfork butcher swag lyft whatever brunch plaid. Chambray direct trade stumptown, twee single-origin coffee fam quinoa organic shaman farm-to-table kitsch four dollar toast authentic poutine chartreuse.
