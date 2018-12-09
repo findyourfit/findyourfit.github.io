@@ -28,5 +28,5 @@ fields:
   label: IMAGE
   name: image
 pages:
-- _posts/first-post-copy.md
+- _posts/2018-12-05-first-post-copy.md
 - _posts/2018-12-05-first-post.md
