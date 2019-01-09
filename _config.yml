@@ -3,6 +3,9 @@
 # Configuration File
 #
 # Information for compile
+plugins:
+- jekyll-menus
+
 exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md"]
 #
 # If your website is placed in a separate folder on your server please modify
