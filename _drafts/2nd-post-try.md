@@ -9,7 +9,7 @@ tags:
 - Storyline
 - How To
 - Tips
-image: img-03.jpg
+image: "/uploads/bike.jpg"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum condimentum justo, rhoncus ullamcorper orci dapibus eget. Aliquam id efficitur lacus. Donec ac mattis ante. Nam vehicula turpis augue. Aliquam erat volutpat.
